@@ -14,21 +14,21 @@ The [Fake Traffic Blaster](http://faketrafficblaster.com/) is a lightweight plug
 	
 
 = What is Fake Traffic =
-Fake traffic is simply a simulation, it's a black hat technique that allow you to generate traffic to your blog, but this traffic isn’t real! This means it’s generating by a bot or a software, no humans are involved, thus no conversion. The reason is to game the statistics, and show that you are getting a lot of traffic.
+Fake traffic is simply a simulation, it is a black hat technique that allow you to generate traffic to your blog, but this traffic is not real, This means it is generating by a bot or a software, no humans are involved, thus no conversion. The reason is to game the statistics, and show that you are getting a lot of traffic.
 
-So, We hope you understand the fact that Fake Traffic is something you really don't want to get on your blog.
+So, We hope you understand the fact that Fake Traffic is something you really do not want to get on your blog.
 
 = What type of Fake Traffic we are talking about here? =
-Black hat tools used in such attacks usually use OLEs/OCX objects to enable certain functionality in their tools. In Windows that's Internet Explorer APIs. The API will make http requests look like as if they were coming from an IE browser.
+Black hat tools used in such attacks usually use OLEs/OCX objects to enable certain functionality in their tools. In Windows that is Internet Explorer APIs. The API will make http requests look like as if they were coming from an IE browser.
 
 = Why Would Someone Send Your Blog Fake Traffic? =
-This could be a serious attack from one of your competitors who wants to hurt your blog reputation, of course if this happened to you, then no doubt you would like to know who is this competitor! But it’s almost impossible to know, so don't wast your time on this, and focus on solving the problem and protecting your blog.
+This could be a serious attack from one of your competitors who wants to hurt your blog reputation, of course if this happened to you, then no doubt you would like to know who is this competitor! But it is almost impossible to know, so do not wast your time on this, and focus on solving the problem and protecting your blog.
 
 Read the story behind [Fake Traffic](http://www.famousbloggers.net/fake-traffic.html) and th creations of the plugin.
 
 = How Fake Traffic Can Hurt Your Blog? =
 
-* Hijack your blog's ranking in search engine.
+* Hijack your blog ranking in search engine.
 * Hurt your blog stats being showing fake results.
 * Disable your blog by exceed your hosting bandwidth quota.
 * Disable your shared hosting account for extensive use of CPU resources.
@@ -36,7 +36,7 @@ Read the story behind [Fake Traffic](http://www.famousbloggers.net/fake-traffic.
 * Affect your business reputation and integrity.
 * And, more...
 
-So, it's a good idea to install the Fake Traffic Blaster plugin, and protect your blog from such attacks.
+So, it is a good idea to install the Fake Traffic Blaster plugin, and protect your blog from such attacks.
 
 This plugin is coded by [Famous Bloggers](http://www.famousbloggers.net/) and [Bloggers Network](http://bloggersnetwork.net/).
 
@@ -56,7 +56,7 @@ Protect WordPress blogs from fake traffic.
 Yes.
 
 = What is Fake Traffic anyways? =
-Fake traffic is simply a simulation, it's a black hat technique that allow you to generate traffic to your blog, but this traffic isn't real! This means it's generating by a bot or a software, no humans are involved, thus no conversion. The reason is to game the statistics, and show that you are getting a lot of traffic.
+Fake traffic is simply a simulation, it is a black hat technique that allow you to generate traffic to your blog, but this traffic is not real! This means it is generating by a bot or a software, no humans are involved, thus no conversion. The reason is to game the statistics, and show that you are getting a lot of traffic.
 
 = How to check on whether I am subject to such attack? =
 Black hat tools used in such attacks usually use OLEs/OCX objects to enable certain functionality in their tools. In Windows that's Internet Explorer APIs. The API will make http requests look like as if they were coming from an IE browser. Therefore, if you experience a jump in your traffic, another simple way to check on whether you are subject to such attack is to see if IE hits are significantly higher than usual. Nevertheless, an experienced hacker would use more advanced techniques to disguise him/herself.
